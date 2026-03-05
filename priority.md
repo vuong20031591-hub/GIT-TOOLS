@@ -14,3 +14,8 @@
 - Task quá hạn → Tự động chuyển High
 - Task còn 1 ngày → Tự động chuyển Medium
 - Task mới tạo → Mặc định Low
+
+## Thông báo
+- High: Thông báo ngay lập tức
+- Medium: Thông báo 1 ngày trước
+- Low: Không thông báo
