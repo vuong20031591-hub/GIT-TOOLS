@@ -1,6 +1,5 @@
-# Notification System
+## Notification Types
 
-- Email notification
-- System notification
-- Push notification
-+ Test reset commit
+- Email
+- SMS
+- Push
