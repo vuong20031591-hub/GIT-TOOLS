@@ -1,5 +1,5 @@
-# Notification System
+## Notification Types
 
-- Email notification
-- System notification
-- Push notification
+- Email
+- SMS
+- Push
