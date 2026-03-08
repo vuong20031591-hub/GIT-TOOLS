@@ -11,7 +11,7 @@ Demo Git workflow cho nhóm 7 người
 | 3 | Nguyễn Thanh Sang | 2280602717 | [nsen1008](https://github.com/nsen1008) | Developer |
 | 4 | Lê Hà Minh Quân | 2280618363 | [lhmquan2004](https://github.com/lhmquan2004) | Reviewer |
 | 5 | Nguyễn Đại Kim Cương | 2280605169 | [cuonghoakim123](https://github.com/cuonghoakim123) | Reviewer |
-| 6 | Trương Thế Quang | - | - | Developer |
+| 6 | Trương Thế Quang | 2280613683 | thequang911 | Developer |
 | 7 | Vi Ngọc Hân | 2280600882 | [hanvi24](https://github.com/hanvi24) | Developer |
 
 ## Mục tiêu dự án
